@@ -1,0 +1,139 @@
+list yang akan dipelajarin
+1. struktur codingan
+2. pemahaman method
+3. recall
+4. praktek
+5. pertanyaan
+
+
+list materi
+1. basic java
+2. looping
+3. array
+4. function
+5. procedure
+
+
+
+
+uts 
+1. bapaknya mint definisi
+2. opini (analisi program)
+3. bikin codingan (praktek)
+
+
+
+
+
+Add on
+1. tipe data
+2. operator
+
+output : 
+1. bisa analisis struktur pemrograman
+2. bisa nulis code sendiri
+3. paham codingan lu sendiri
+
+
+
+
+
+tipe data dalam java
+1. int      - integer - bilangan - 123456789 gada koma
+2. string - kalimat - teks - simbol 
+3. boolean - true atau false
+4. double - desimal   
+5. nan - not a number ( lu manggil int, tapi masukinnnya string )
+6. long int
+7. varchar
+8. char
+
+
+1
+"1"
+
+
+operator aritmatika
+1. + 
+2. -
+3. /
+4. *
+5. % - modulus - sisa bagi
+
+
+==
+=+
+=-
+
+operator
+1. aritmetik
+2. penugasan
+3. bitwise
+
+
+
+9 % 2 = 1
+
+
+
+
+  for(bikin variable; kondisi; increment/decrement){
+    codingan
+  }
+
+
+
+  string nama = "ucup"
+  int nomor = 9
+  double desimal = 20.4
+
+
+
+  variabel = tempat nyimpen nilai
+
+
+
+
+
+
+
+int nomor = 10;
+
+
+1. punya nama
+2. dia punya tipe data
+3. dia punya nilai
+
+
+
+
+
+
+
+
+
+
+
+
+import java.util.scanner;
+
+public class GenapGanjil{
+        static void Gangep(int apaIni){
+            if(apaIni % 2 == 0){
+                System.out.println("adalah genap");
+            }else{
+                System.out.println("adalah ganjil");
+            }
+        }
+
+
+        public static void main(String[] args){
+            Scanner sc = new Scanner(System.in);
+            System.out.println("masukan angka");
+            int angka = sc.nextInt;
+
+            Gangep(angka);
+            sc.close();
+        }
+     
+}
