@@ -1,10 +1,11 @@
 package record;
-
 record Produk(String kode, String nama, double harga, int stok) {
     double nilaiStok() {
         return harga * stok;
     }
 }
+
+//tempat penyimpan data dengan tipe nilai yang berbeda beda
 
 public class produkM {
     public static void main(String[] args) {

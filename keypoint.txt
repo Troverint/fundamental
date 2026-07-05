@@ -1,0 +1,61 @@
+search
+1. sekuensial search 
+    nyari secara beruntun elemen, dari indeks awal sampai akhir
+2. sekuensial search sentinel
+    sama kaya sekuensial biasa, tapi kalo elemen yang dicari tidak ada, dia otomatis bikin elemen "itu(yang dicari)" di indeks terakhir
+3. binary search
+    sama kaya belah buku di tengah, dengan syarat "data harus urut"
+
+
+    stacking
+        tumpukan
+        
+        karakteristik
+        1. last in first out (lifo)
+
+        method
+        1. pop (keluarin)
+        2. push (masukin)
+
+        jenis jenis
+        1. single stack
+        2. double stack
+
+        double stack
+        ada 2 stack yang sama dalam satu array, stack 1 dari indeks 0, stack 2 dari indeks akhir
+
+        top
+        elemen paling akhir stack
+
+    
+    queue
+    antrian
+
+    karakteristik
+    fifo (frst in first out)
+
+    dequeue
+    keluarnya 1 elemen dari antrian
+
+    operasi
+    1. create
+    2. isEmpty
+    3. isFull
+    3. enqueue
+    4. dequeue
+    5. clear
+    6. tampil
+
+
+
+    
+
+    wadah = 10
+    isi = 10
+
+
+
+
+
+  
+

@@ -1,0 +1,13 @@
+1. sebutkan 3 jenis search
+2. apa yang dimaksud dengan sekuensial search, dan apa bedanya dengan sekuensial search sentinel
+=sekuensial search adalah pencarian secara beruntun, dari elemen awal hingga akhir, bedanya dengan sentinel, dia akan membuat elemen yang dicari, diakhir
+3. jelaskan cara kerja binary search
+4. buatlah contoh codingan sequensial search, sentinel, dan binary search
+5. buatkan algoritma search (kalo jahat)
+6. apa itu pointer
+
+
+
+1 2 3 4 5 8 = sentinel = elemen fiktif yang sengaja dibuat
+
+x = 8

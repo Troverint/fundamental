@@ -12,10 +12,5 @@ public class PegawaiMain {
         System.out.println("Nama: " + p1.nama());
         System.out.println("Jabatan: " + p1.jabatan());
         System.out.println("Gaji: " + p1.gaji());
-
-        System.out.println("\nKode: " + p2.kd());
-        System.out.println("Nama: " + p2.nama());
-        System.out.println("Jabatan: " + p2.jabatan());
-        System.out.println("Gaji: " + p2.gaji());
     }
 }
